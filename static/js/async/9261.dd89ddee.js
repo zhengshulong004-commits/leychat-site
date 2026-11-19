@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkleyu=self.rspackChunkleyu||[]).push([[9261],{5820(e,r,s){s.d(r,{createArchitectureServices:()=>c.S});var c=s(3738);s(7127)}}]);
